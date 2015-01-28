@@ -1,0 +1,12 @@
+{
+  "name": "privacy-extension",
+  "version": "0.0.0",
+  "main": "manifest.json",
+  "license": "GPL",
+  "private": true,
+  "dependencies": {
+    "cm.js": "git@github.com:timseverien/cm.js.git",
+    "jquery": "~2.1.3",
+    "jquery-cookie": "~1.4.1"
+  }
+}
